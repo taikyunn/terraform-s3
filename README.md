@@ -1,1 +1,1 @@
-### S3バケット+バージョニング+デフォルトの暗号化のterraform sample
+### S3バケット+バージョニング+デフォルトの暗号化のterraformsample
